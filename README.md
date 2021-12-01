@@ -39,7 +39,7 @@
 6. `Node`与浏览器`EventLoop`的差异
 7. 如何在保证页面运行流畅的情况下处理海量数据
 ##### 语法和API
-1. 理解`ECMAScript`和`JavaScript`的关系
+1. [理解`ECMAScript`和`JavaScript`的关系](https://github.com/Cap0uPasCap/blog/issues/7)
 2. 熟练运用`es5`、`es6`提供的语法规范，
 3. 熟练掌握`JavaScript`提供的全局对象（例如`Date`、`Math`）、全局函数（例如`decodeURI`、`isNaN`）、全局属性（例如`Infinity`、`undefined`）
 4. 熟练应用`map`、`reduce`、`filter` 等高阶函数解决问题
