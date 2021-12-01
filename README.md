@@ -1,15 +1,16 @@
 
 # cap's blog
 
+
+
 ## 自检清单
 ### JavaScript基础
-
 ##### 变量和类型
 1. [JavaScript规定了几种语言类型](https://github.com/Cap0uPasCap/blog/issues/5)
 2. [JavaScript对象的底层数据结构是什么](https://www.notion.so/JavaScript-c401762140f040f4a3a5fd59529f7c25)
 3. [JavaScript中的变量在内存中的具体存储形式](https://github.com/Cap0uPasCap/blog/issues/6)
 1. 基本类型对应的内置对象，以及他们之间的装箱拆箱操作
-2. 理解值类型和引用类型
+2. [理解值类型和引用类型](https://github.com/Cap0uPasCap/blog/issues/8)
 3. `null`和`undefined`的区别
 4. 至少可以说出三种判断`JavaScript`数据类型的方式，以及他们的优缺点，如何准确的判断数组类型
 5. 可能发生隐式类型转换的场景以及转换原则，应如何避免或巧妙应用
