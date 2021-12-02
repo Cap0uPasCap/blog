@@ -12,7 +12,7 @@
 1. 基本类型对应的内置对象，以及他们之间的装箱拆箱操作
 2. [理解值类型和引用类型](https://github.com/Cap0uPasCap/blog/issues/8)
 3. [`null`和`undefined`的区别](https://github.com/Cap0uPasCap/blog/issues/9)
-4. 至少可以说出三种判断`JavaScript`数据类型的方式，以及他们的优缺点，如何准确的判断数组类型
+4. [至少可以说出三种判断`JavaScript`数据类型的方式，以及他们的优缺点，如何准确的判断数组类型](https://github.com/Cap0uPasCap/blog/issues/10)
 5. 可能发生隐式类型转换的场景以及转换原则，应如何避免或巧妙应用
 6. 出现小数精度丢失的原因，`JavaScript`可以存储的最大数字、最大安全数字，`JavaScript`处理大数字的方法、避免精度丢失的方法
 ##### 原型和原型链
