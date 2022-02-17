@@ -49,6 +49,13 @@
 7. `JavaScript`异常处理的方式，统一的异常处理方案
         
 
+## Java
+### Java概述
+[小技巧](https://github.com/Cap0uPasCap/blog/issues/16)
+
+### Java变量
+[小技巧](https://github.com/Cap0uPasCap/blog/issues/17)
+
 ## 小技巧
 
    [小技巧](https://github.com/Cap0uPasCap/blog/issues/1)
