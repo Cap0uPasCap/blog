@@ -51,10 +51,10 @@
 
 ## Java
 ### Java概述
-[小技巧](https://github.com/Cap0uPasCap/blog/issues/16)
+[概述](https://github.com/Cap0uPasCap/blog/issues/16)
 
 ### Java变量
-[小技巧](https://github.com/Cap0uPasCap/blog/issues/17)
+[变量](https://github.com/Cap0uPasCap/blog/issues/17)
 
 ## 小技巧
 
