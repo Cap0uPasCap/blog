@@ -1,3 +1,5 @@
+## blog
+
 | JavaScript                                                   | Java                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | [JavaScript基础](https://github.com/Cap0uPasCap/blog/blob/main/JavaScript.md) | [Java学习笔记](https://github.com/Cap0uPasCap/blog/blob/main/Java.md) |
