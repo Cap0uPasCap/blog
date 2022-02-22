@@ -1,9 +1,4 @@
 
-# cap's blog
-
-
-
-## 自检清单
 ### JavaScript基础
 ##### 变量和类型
 1. [JavaScript规定了几种语言类型](https://github.com/Cap0uPasCap/blog/issues/5)
@@ -49,22 +44,18 @@
 7. `JavaScript`异常处理的方式，统一的异常处理方案
         
 
-## Java
+### Java
 1. [Java概述](https://github.com/Cap0uPasCap/blog/issues/16)
 2. [Java变量](https://github.com/Cap0uPasCap/blog/issues/17)
 3. [Java运算符](https://github.com/Cap0uPasCap/blog/issues/18)
 
-## 小技巧
+### [小技巧](https://github.com/Cap0uPasCap/blog/issues/1)
 
-   [小技巧](https://github.com/Cap0uPasCap/blog/issues/1)
+### [工具函数](https://github.com/Cap0uPasCap/blog/issues/2)
+   
+### [手写题](https://github.com/Cap0uPasCap/blog/issues/2)
 
-## 工具函数
-
-   [工具函数](https://github.com/Cap0uPasCap/blog/issues/2)
-
-## 手写题
-
-   [手写题](https://github.com/Cap0uPasCap/blog/issues/2)
+   
 
 
 
