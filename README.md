@@ -50,11 +50,9 @@
         
 
 ## Java
-### Java概述
-[概述](https://github.com/Cap0uPasCap/blog/issues/16)
-
-### Java变量
-[变量](https://github.com/Cap0uPasCap/blog/issues/17)
+[Java概述](https://github.com/Cap0uPasCap/blog/issues/16)
+[Java变量](https://github.com/Cap0uPasCap/blog/issues/17)
+[Java运算符](https://github.com/Cap0uPasCap/blog/issues/18)
 
 ## 小技巧
 
