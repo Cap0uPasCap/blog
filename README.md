@@ -1,4 +1,3 @@
-
 ### JavaScript基础
 ##### 变量和类型
 1. [JavaScript规定了几种语言类型](https://github.com/Cap0uPasCap/blog/issues/5)
@@ -54,8 +53,4 @@
 ### [工具函数](https://github.com/Cap0uPasCap/blog/issues/2)
    
 ### [手写题](https://github.com/Cap0uPasCap/blog/issues/2)
-
-   
-
-
 
